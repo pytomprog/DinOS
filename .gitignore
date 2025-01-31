@@ -1,0 +1,4 @@
+.xmake/
+build/
+
+xmake.lua # Until it works
